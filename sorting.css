@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  font-family: sans-serif;
+}
+
+header .title {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  margin-left: 17%;
+  color: white;
+  letter-spacing: 0.2rem;
+}
+
+header nav {
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header nav .btn {
+  border: 2px solid deepskyblue;
+  padding: 0.3rem 0.6rem;
+  outline: none;
+  background-color: transparent;
+  color: deepskyblue;
+  margin-left: 1rem;
+  border-radius: 2px;
+  font-family: monospace;
+}
+
+header nav .btn:hover{
+  color: white;
+  border-color: white;
+}
+
+.bar-container {
+  width: 90%;
+  margin: 2rem auto;
+  display: flex;
+}
+
+.bar-container .bars {
+  border: 1px solid black;
+  width: 20px;
+  background-color: white;
+  transition: background-color 0.5s ease, height 0.8s ease;
+}
