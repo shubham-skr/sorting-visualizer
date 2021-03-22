@@ -1,33 +1,49 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hello, world!</title>
+    <title>Sorting Visualizer</title>
+    <!-- Google Fonts - Poppins and Ubuntu -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap">
+    <!-- External CSS File -->
     <link rel="stylesheet" href="./sorting.css">
   </head>
   <body>
-    <header>
-      <h1 class="title">SORTING VISUALIZER</h1>
-      <nav>
-        <div class="nav-left">
-          <button type="button" class="btn new-array">new array</button>
-        </div>
-        <div class="nav-right">
-          <button type="button" class="btn selection-sort">selection sort</button>
-          <button type="button" class="btn bubble-sort">bubble sort</button>
-          <button type="button" class="btn insertion-sort">insertion sort</button>
-          <button type="button" class="btn merge-sort">merge sort</button>
-          <button type="button" class="btn quick-sort">quick sort</button>
-        </div>
-      </nav>
-    </header>
-    <div class="bar-container"></div>
+    <!-- Top Level Container to restrict growing of the width of the body -->
+    <div class="main-container">
+      <header>
+        <h1 class="title"><span class="color-1">Sorting</span> <span class="color-2">Algorithms</span> <span class="color-3">Visualizer</span></h1>
+        <nav class="navbar">
+          <div class="nav-left">
+            <button type="button" class="btn new-array">new array</button>
+            <div class="slider-container">
+              <p class="slider-text">array size</p>
+              <input class="array_size slider-input" type="range" min=2 max=40 step=1 value=10>
+            </div>
+            <div class="slider-container">
+              <p class="slider-text">speed</p>
+              <input class="speed slider-input" type="range"  min=100 max=3000 step=100 value=1000>
+            </div>
+          </div>
+          <div class="nav-right">
+            <button type="button" class="btn selection-sort">selection sort</button>
+            <button type="button" class="btn bubble-sort">bubble sort</button>
+            <button type="button" class="btn insertion-sort">insertion sort</button>
+            <button type="button" class="btn merge-sort">merge sort</button>
+          </div>
+        </nav>
+      </header>
+      <!-- Contains all the dynamically generated bar's div -->
+      <div class="bar-container"></div>
+    </div>
+    <!-- External Javascript Files -->
     <script src="./js_files/common_functions.js"></script>
     <script src="./js_files/selection.js"></script>
     <script src="./js_files/bubble.js"></script>
     <script src="./js_files/insertion.js"></script>
+    <script src="./js_files/merge.js"></script>
     <script src="./js_files/sorting.js"></script>
   </body>
 </html>
