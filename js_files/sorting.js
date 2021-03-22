@@ -73,3 +73,4 @@ mergeSortBtn.addEventListener("click", () => {
 
 // creates bars when the page is loaded
 createBars(array_size.value);
+
