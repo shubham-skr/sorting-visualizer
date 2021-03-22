@@ -7,6 +7,12 @@ This is my Javascript Project which visualizes below mentioned sorting algorithm
 3. Insertion Sort
 4. Merge Sort
 
+Following are the features of this project :- 
+1. Choices among 4 sorting algorithms to visualize
+2. You can create different new arrays  
+3. You can change the size of the array 
+4. You can also change the speed of the animations
+
 *** Will add more sorting algorithms visualization.  
 
 
