@@ -21,5 +21,5 @@
 ## I have also posted a blog regarding this project :- 
      https://dev.to/x_walker_x/my-sorting-visualizer-project-journey-with-crio-do-mk8
 
-
-
+## Credits 
+    Crio.do
