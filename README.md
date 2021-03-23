@@ -15,5 +15,11 @@ Following are the features of this project :-
 
 *** Will add more sorting algorithms visualization.  
 
+Netlify Link to my Sorting Visualizer Site :- 
+https://sk75-sorting-visualizer.netlify.app/
+
+I have also posted a blog regarding this project :- 
+https://dev.to/x_walker_x/my-sorting-visualizer-project-journey-with-crio-do-mk8
+
 
 
