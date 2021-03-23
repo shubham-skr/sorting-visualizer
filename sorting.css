@@ -12,6 +12,7 @@ body {
 .main-container {
   max-width: 1300px;
   margin: auto;
+  padding: 0 1rem;
 }
 
 header {
@@ -22,6 +23,12 @@ header .title {
   font-size: 1.5rem;
   letter-spacing: 0.1rem;
   text-align: center;
+}
+
+@media (max-width: 1100px) {
+  .header .title{
+    font-size: 1.8rem;
+  }
 }
 
 .title .color-1{
@@ -69,6 +76,13 @@ header .navbar {
   background: #f00000;
 }
 
+@media (max-width: 1100px) {
+  .navbar .btn{
+    padding: 0.5rem 0.8rem;
+    font-size: 1.2rem;
+  }
+}
+
 .navbar .nav-left {
   display: flex;
   align-items: center;
@@ -88,12 +102,13 @@ header .navbar {
   align-items: flex-start;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 730px) {
   .navbar .nav-left{
     flex-direction: column;
   }
   .navbar .nav-left .slider-container {
     margin-top: 2rem;
+    margin-left: 0;
   }
 }
 
@@ -113,7 +128,7 @@ header .navbar {
   margin-left: 1rem;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 730px) {
   .navbar .nav-right{
     display: flex;
     flex-direction: column;
