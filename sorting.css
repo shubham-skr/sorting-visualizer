@@ -18,13 +18,13 @@ body {
 
 header {
   margin: 1.5rem 0 2rem 0;
-  line-height: 2.5rem;
 }
 
 header .title {
   font-size: 1.5rem;
   letter-spacing: 0.1rem;
   text-align: center;
+  line-height: 2.5rem;
 }
 
 @media (max-width: 1100px) {
@@ -115,7 +115,7 @@ header .navbar {
 }
 
 .navbar .nav-left .slider-container .slider-text {
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.5rem;
   letter-spacing: 0.1rem;
   font-size: 0.7rem;
   font-weight: bold;
