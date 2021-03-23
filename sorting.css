@@ -53,11 +53,12 @@ header .navbar {
 }
 
 .navbar .btn {
-  padding: 0.5rem 0.8rem;
+  padding: 0.4rem 0.7rem;
   font-family: monospace;
+  font-size: 0.9rem;
   color: white;
-  background: #c70505;
-  border: none;
+  background: black;
+  border: 2px solid #f00000;
   border-radius: 2px;
   outline: none;
   cursor: pointer;
@@ -65,7 +66,7 @@ header .navbar {
 }
 
 .navbar .btn:hover {
-  background: #14b805;
+  background: #f00000;
 }
 
 .navbar .nav-left {
