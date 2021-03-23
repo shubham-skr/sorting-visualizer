@@ -12,6 +12,7 @@ body {
 .main-container {
   max-width: 1300px;
   margin: auto;
+  margin-bottom: 3rem;
   padding: 0 1rem;
 }
 
