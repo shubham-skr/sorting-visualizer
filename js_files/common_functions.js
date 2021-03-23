@@ -1,5 +1,5 @@
 let delay = 1000;        // In milliseconds
-let maxBarHeight = 65;   // In vh
+let maxBarHeight = 60;   // In vh
 
 async function swap(bar1, bar2) {
     // change the color of the bar to be swapped to red
