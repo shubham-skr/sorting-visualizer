@@ -1,7 +1,7 @@
 # SORTING_VISUALIZER_PROJECT
     - by Shubham Kumar
 
-![Site Image](./SortingVisualizer.png?raw=true "Sorting Viusalizer")
+![Site Image](./sorting_visualizer.png?raw=true "Sorting Viusalizer")
 
 ## This is my Javascript Project which visualizes below mentioned sorting algorithms :- 
 1. Selection Sort
