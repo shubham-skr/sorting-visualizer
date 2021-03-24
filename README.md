@@ -3,7 +3,7 @@
 
 ![Site Image](./sorting_visualizer.png?raw=true "Sorting Viusalizer")
 
-## This is my Javascript Project which visualizes below mentioned sorting algorithms :- 
+## My Javascript Project which visualizes below mentioned sorting algorithms :- 
 1. Selection Sort
 2. Bubble Sort
 3. Insertion Sort
@@ -17,10 +17,10 @@
 
 *** Will add more sorting algorithms visualization.  
 
-## Netlify Link to my Sorting Visualizer Site :- 
+## Netlify Link to Sorting Visualizer website :- 
      https://sorting-visualizer-sk75.netlify.app/
 
-## I have also posted a blog regarding this project :- 
+## I have also posted a blog of this project :- 
      https://dev.to/x_walker_x/my-sorting-visualizer-project-journey-with-crio-do-mk8
 
 ## Credits 
