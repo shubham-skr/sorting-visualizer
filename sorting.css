@@ -67,7 +67,7 @@ header .navbar {
   font-size: 0.9rem;
   color: white;
   background: black;
-  border: 2px solid #f00000;
+  border: 2px solid rgb(212, 2, 2);
   border-radius: 2px;
   outline: none;
   cursor: pointer;
@@ -75,7 +75,7 @@ header .navbar {
 }
 
 .navbar .btn:hover {
-  background: #f00000;
+  background: rgb(212, 2, 2);
 }
 
 @media (max-width: 1100px) {
