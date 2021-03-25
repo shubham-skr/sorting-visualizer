@@ -18,7 +18,7 @@
 *** Will add more sorting algorithms visualization.  
 
 ## Netlify Link to Sorting Visualizer website :- 
-     https://sorting-visualizer-sk75.netlify.app/
+     [sorting-visualizer-sk75.netlify.app](https://sorting-visualizer-sk75.netlify.app/)
 
 ## I have also posted a blog of this project :- 
      https://dev.to/x_walker_x/my-sorting-visualizer-project-journey-with-crio-do-mk8
