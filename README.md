@@ -1,5 +1,5 @@
-<h1 style="text-align:center; border: 1px solid red;">SORTING VISUALIZER</h1>
-#### &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; - JAVASCRIPT PROJECT
+# SORTING VISUALIZER
+#### --- JAVASCRIPT PROJECT
 <br/>
 
 ![Site Image](./sorting_visualizer.png?raw=true "Sorting Viusalizer")
