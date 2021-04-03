@@ -1,13 +1,20 @@
 # SORTING VISUALIZER
 ####      - Javascript Project
+<br/>
 
 ![Site Image](./sorting_visualizer.png?raw=true "Sorting Viusalizer")
+
 <br/>
+<br/>
+
 ### A Sorting Algorithms Visualizer website which visualizes following sorting algorithms :- 
 1. Selection Sort
 2. Bubble Sort
 3. Insertion Sort
 4. Merge Sort
+
+<br/>
+<br/>
 
 ### Features :- 
 1. Choices among 4 sorting algorithms to visualize
@@ -17,11 +24,20 @@
 
 ##### Will add more sorting algorithms visualization.  
 
+<br/>
+<br/>
+
 ### Netlify Link :- 
      https://sorting-visualizer-sk75.netlify.app/
 
+<br/>
+<br/>
+
 ### Blog on this project :- 
      https://dev.to/x_walker_x/my-sorting-visualizer-project-journey-with-crio-do-mk8
+
+<br/>
+<br/>
 
 #### Credits 
     Crio.do
