@@ -1,5 +1,5 @@
 # SORTING VISUALIZER
-#### &#160;&#160;&#160; - JAVASCRIPT PROJECT
+#### &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; - JAVASCRIPT PROJECT
 <br/>
 
 ![Site Image](./sorting_visualizer.png?raw=true "Sorting Viusalizer")
