@@ -1,4 +1,4 @@
-# SORTING VISUALIZER
+<h1 style="text-align:center;">SORTING VISUALIZER</h1>
 #### &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; - JAVASCRIPT PROJECT
 <br/>
 
