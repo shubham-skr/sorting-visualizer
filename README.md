@@ -25,7 +25,7 @@
 <br/>
 
 ### Netlify Link :- 
-     ('sorting-visualizer')[https://sorting-visualizer-sk75.netlify.app/]
+     (sorting-visualizer)[https://sorting-visualizer-sk75.netlify.app/]
 
 <br/>
 
