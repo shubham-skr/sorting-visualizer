@@ -1,5 +1,5 @@
 # SORTING VISUALIZER
-####      - Javascript Project
+#### <hr/><hr/><hr/> JAVASCRIPT PROJECT
 <br/>
 
 ![Site Image](./sorting_visualizer.png?raw=true "Sorting Viusalizer")
@@ -35,4 +35,4 @@ https://dev.to/x_walker_x/my-sorting-visualizer-project-journey-with-crio-do-mk8
 <br/>
 
 #### Credits 
-    Crio.do
+Crio.do
