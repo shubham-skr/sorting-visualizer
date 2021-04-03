@@ -2,7 +2,7 @@
 ####      - Javascript Project
 
 ![Site Image](./sorting_visualizer.png?raw=true "Sorting Viusalizer")
-
+<br/>
 ### A Sorting Algorithms Visualizer website which visualizes following sorting algorithms :- 
 1. Selection Sort
 2. Bubble Sort
