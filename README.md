@@ -25,12 +25,12 @@
 <br/>
 
 ### Netlify Link :- 
-(sorting-visualizer)["https://sorting-visualizer-sk75.netlify.app/"]
+https://sorting-visualizer-sk75.netlify.app/
 
 <br/>
 
 ### Blog on this project :- 
-     https://dev.to/x_walker_x/my-sorting-visualizer-project-journey-with-crio-do-mk8
+https://dev.to/x_walker_x/my-sorting-visualizer-project-journey-with-crio-do-mk8
 
 <br/>
 
