@@ -41,4 +41,4 @@ https://dev.to/x_walker_x/my-sorting-visualizer-project-journey-with-crio-do-mk8
 <br/>
 
 #### Credits 
-Crio.do
+<a href="https://www.crio.do/">Crio.do</a>
