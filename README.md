@@ -39,6 +39,6 @@ Crio.do
 
 <br/>
 
-### Got certifcate for successfully completion of project and other challenges
-
+### Certifcate on successfully completion of project and other challenges
+<br/>
 <img src="./Certificate.010.png" alt="course certificate">
