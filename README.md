@@ -40,4 +40,5 @@ Crio.do
 <br/>
 
 ### Got certifcate for successfully completion of project and other challenges
-<img src="./Certificate.010.png" alt="course certificate" style="width:100px; height:100px;">
+
+<img src="./Certificate.010.png" alt="course certificate">
