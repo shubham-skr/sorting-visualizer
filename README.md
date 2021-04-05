@@ -36,3 +36,6 @@ https://dev.to/x_walker_x/my-sorting-visualizer-project-journey-with-crio-do-mk8
 
 #### Credits 
 Crio.do
+
+### Got certifcate for successfully completion of project and other challenges
+<img src="./Certificate.010.png" alt="course certificate">
