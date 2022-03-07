@@ -20,7 +20,6 @@
 3. You can change the size of the array 
 4. You can also change the speed of the animations
 
-##### Will add more sorting algorithms visualization.  
 
 <br/>
 
